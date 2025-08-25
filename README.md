@@ -818,15 +818,6 @@ Distributed under the ISC License. See `LICENSE` for more information.
 - **💬 Issues**: [GitHub Issues](https://github.com/alijayanet/gembok-bill/issues)
 - **📞 WhatsApp Support**: 081947215703
 
----
-
-## 🙏 Donasi
-
-Rekening Donasi Untuk Pengembangan:
-- **Bank**: BRI
-- **No. Rekening**: 4206 01 003953 531
-- **Atas Nama**: WARJAYA
-- **Info**: 081947215703 GEMBOK
 
 ---
 
@@ -838,4 +829,3 @@ Aplikasi ini dikembangkan untuk keperluan ISP dan membutuhkan konfigurasi yang t
 
 ---
 
-**Made with ❤️ by [GEMBOK Team](https://github.com/alijayanet)**
